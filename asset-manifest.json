@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a88ff63.css",
+    "main.js": "/static/js/main.b2809808.js",
+    "static/js/787.8d6cd378.chunk.js": "/static/js/787.8d6cd378.chunk.js",
+    "static/media/PaytoneOne-Regular.ttf": "/static/media/PaytoneOne-Regular.49f0dd262b027f64630e.ttf",
+    "index.html": "/index.html",
+    "main.3a88ff63.css.map": "/static/css/main.3a88ff63.css.map",
+    "main.b2809808.js.map": "/static/js/main.b2809808.js.map",
+    "787.8d6cd378.chunk.js.map": "/static/js/787.8d6cd378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a88ff63.css",
+    "static/js/main.b2809808.js"
+  ]
+}
